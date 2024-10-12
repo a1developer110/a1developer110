@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JAVA SCRIPT
 - 💞️ I’m looking to collaborate on Journey
-- 📫 How to reach me aamphotography144@gmail.com
+- 📫 How to reach me http://t.me/arshad_mukhtiar
 - 😄 Pronouns: Arshad Ali
 
 <!---
